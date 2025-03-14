@@ -4,8 +4,8 @@ Welcome to the **HelpingUnity** project documentation repository. This repositor
 
 ## Resources
 
-- **[Database Schema](Database%20Schema.pdf)**: A detailed outline of the database design.
-- **[Project Proposal](EEY4189_Group_Project_Proposal.pdf)**: Proposal document describing the project's goals and scope.
+- **[Database Schema]**: A detailed outline of the database design.
+- **[Project Proposal]**: Proposal document describing the project's goals and scope.
 - **[Final Presentation](HELPING%20UNITY_Final_Presentation_Approved.pdf)**: The final presentation slides for the project.
 - **[Final Report](HELPING%20UNITY_Final_Project_Report_Approved.pdf)**: The final report summarizing the project's outcomes.
 - **[SRS Document](SRS%20Document%20-%20Helping%20Unity.pdf)**: Software Requirements Specification document.
